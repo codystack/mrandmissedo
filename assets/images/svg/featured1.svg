@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.903331in" height="0.903331in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 903.33 903.33"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="696" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="500">
+	<font-face 
+		font-family="Poppins Medium">
+		<font-face-src>
+			<font-face-name name="Poppins Medium"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="&amp;" horiz-adv-x="760" d="M517.823 538.87c7.15754,95.1031 -57.6855,171.072 -178.655,171.356 -119.056,0.2126 -193.041,-68.599 -193.183,-159.663 -0.2126,-48.9689 13.8899,-85.9613 52.7248,-133.017 -110.056,-44.7878 -163.206,-123.733 -163.348,-217.773 -0.283467,-129.899 99.5677,-213.025 249.522,-213.238 96.9456,-0.141733 173.978,31.6774 241.089,98.5047l85.8904 -86.103 148.962 -0.354333 -168.734 168.308c8.00794,13.0395 17.0789,26.9293 25.0868,40.961l90.2842 153.852 -123.025 0.141733 -71.0793 -116.859 -183.616 183.332c-48.9689,53.0792 -69.9454,84.0479 -69.8037,122.032 0,37.0633 29.1262,66.969 73.9848,66.8982 43.087,-0.141733 71.9297,-27.0711 69.9454,-78.166l113.954 -0.2126zm-232.797 -455.389c-81.9219,0.141733 -135.851,53.15 -135.71,120.119 0.141733,62.0792 37.1342,109.985 118.206,141.875l183.616 -185.246c-48.1185,-50.9532 -101.056,-76.8904 -166.112,-76.7486z"/>
+   <glyph unicode="D" horiz-adv-x="708" d="M304.372 693.785l-226.915 0.8504 -2.5512 -694.848 226.986 -0.8504c222.947,-0.8504 369.428,129.686 369.995,343.703 0.8504,214.868 -144.568,350.294 -367.515,351.144zm-115.017 -601.517l1.62993 508.823 113.103 -0.4252c163.915,-0.496067 251.577,-98.7173 250.939,-257.671 -0.566934,-158.033 -88.8668,-251.648 -252.782,-251.152l-112.891 0.4252z"/>
+   <glyph unicode="E" horiz-adv-x="523" d="M464.956 691.73l-383.956 3.4016 -5.9528 -695.769 383.743 -3.4016 0.921267 93.048 -269.931 2.26773 1.77167 212.884 239.955 -2.05513 0.8504 93.048 -239.884 2.05513 1.77167 203.883 269.931 -2.26773 0.779534 92.9062z"/>
+   <glyph unicode="I" horiz-adv-x="263" d="M74.977 -0.141733l114.025 -0.2126 1.20473 694.777 -114.025 0.2126 -1.20473 -694.777z"/>
+   <glyph unicode="M" horiz-adv-x="881" d="M74.977 0.354333l114.025 0.283467 -1.77167 475.941 214.655 -475.232 78.9455 0.283467 210.332 476.579 1.7008 -475.799 113.954 0.4252 -2.40947 694.706 -122.032 -0.283467 -241.018 -545.744 -245.837 543.973 -122.954 -0.4252 2.40947 -694.706z"/>
+   <glyph unicode="O" horiz-adv-x="783" d="M744.88 352.704c-1.063,207.994 -158.741,354.121 -356.672,353.129 -195.876,-0.992134 -354.192,-148.749 -353.129,-356.743 1.13387,-208.986 160.867,-355.113 356.885,-354.05 197.931,1.13387 353.979,148.82 352.916,357.664zm-592.8 -2.9764c-0.779534,156.97 98.7173,255.404 236.695,256.183 137.977,0.6378 238.466,-96.8039 239.317,-253.774 0.779534,-156.899 -98.7173,-257.459 -236.695,-258.097 -137.977,-0.779534 -238.466,98.7173 -239.317,255.687z"/>
+   <glyph unicode="R" horiz-adv-x="631" d="M444.83 486.075c-0.283467,-68.9533 -40.1814,-117.922 -129.332,-117.71l-125.859 0.2126 0.354333 232.868 125.93 -0.141733c88.9377,-0.141733 128.977,-45.213 128.907,-115.229zm-368.578 208.632l-1.34647 -694.848 113.954 -0.141733 0.566934 277.868 86.9534 -0.2126 159.45 -278.081 135.922 -0.283467 -171.356 288.215c117.001,28.7719 161.08,116.717 161.222,198.71 0.2126,112.891 -80.5754,208.065 -245.482,208.277l-239.884 0.496067z"/>
+   <glyph unicode="S" horiz-adv-x="603" d="M542.768 199.773c-1.34647,253.986 -368.719,154.064 -369.499,311.105 -0.4252,66.8982 50.528,99.0716 116.505,97.5126 72.0006,-1.77167 113.103,-44.5043 117.355,-91.4889l125.93 0.779534c-10.5591,118.843 -104.883,188.435 -237.829,187.726 -142.088,-0.8504 -238.537,-77.3156 -237.9,-199.348 1.41733,-255.829 369.641,-144.922 370.491,-312.876 0.354333,-59.032 -44.4334,-102.19 -124.371,-102.615 -79.0164,-0.354333 -119.127,45.4256 -124.442,102.261l-122.032 -0.6378c0.708667,-122.883 107.93,-198.356 246.9,-197.647 154.985,0.921267 239.388,101.269 238.892,205.23z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Poppins Medium";font-variant:normal;font-style:normal;font-weight:500;src:url("#FontID0") format(svg)}
+    .fil0 {fill:none}
+    .fil1 {fill:#FEFEFE}
+    .fnt0 {font-weight:500;font-size:55.56px;font-family:'Poppins Medium'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-1.67" y="1.66" width="903.33" height="903.33"/>
+  <circle class="fil1" cx="812.99" cy="241.57" r="10.2"/>
+  <text x="364.19" y="841.68"  class="fil1 fnt0"><tspan rotate="196">M</tspan></text>
+  <text x="289.15" y="816.68"  class="fil1 fnt0"><tspan rotate="207">R</tspan></text>
+  <text x="257.59" y="800.57"  class="fil1 fnt0"><tspan rotate="210"> </tspan></text>
+  <text x="219.66" y="776.68"  class="fil1 fnt0"><tspan rotate="218">&amp;</tspan></text>
+  <text x="186.94" y="750.57"  class="fil1 fnt0"><tspan rotate="224"> </tspan></text>
+  <text x="154.56" y="719.46"  class="fil1 fnt0"><tspan rotate="232">M</tspan></text>
+  <text x="108.41" y="655.02"  class="fil1 fnt0"><tspan rotate="240">I</tspan></text>
+  <text x="87.37" y="615.02"  class="fil1 fnt0"><tspan rotate="249">S</tspan></text>
+  <text x="66.32" y="554.46"  class="fil1 fnt0"><tspan rotate="257">S</tspan></text>
+  <text x="59.32" y="521.69"  class="fil1 fnt0"><tspan rotate="260"> </tspan></text>
+  <text x="53.61" y="477.24"  class="fil1 fnt0"><tspan rotate="268">E</tspan></text>
+  <text x="54.8" y="417.8"  class="fil1 fnt0"><tspan rotate="277">D</tspan></text>
+  <text x="66.25" y="348.91"  class="fil1 fnt0"><tspan rotate="289">O</tspan></text>
+  <text x="80.92" y="307.8"  class="fil1 fnt0"><tspan rotate="292"> </tspan></text>
+  <text x="86.48" y="294.46"  class="fil1 fnt0"><tspan rotate="294"> </tspan></text>
+  <text x="92.03" y="281.69"  class="fil1 fnt0"><tspan rotate="297"> </tspan></text>
+  <text x="98.7" y="268.35"  class="fil1 fnt0"><tspan rotate="300"> </tspan></text>
+  <text x="105.92" y="256.13"  class="fil1 fnt0"><tspan rotate="300"> </tspan></text>
+  <text x="113.15" y="243.35"  class="fil1 fnt0"><tspan rotate="303"> </tspan></text>
+  <text x="120.92" y="231.13"  class="fil1 fnt0"><tspan rotate="305"> </tspan></text>
+  <text x="147.99" y="195.57"  class="fil1 fnt0"><tspan rotate="314">M</tspan></text>
+  <text x="205.17" y="140.57"  class="fil1 fnt0"><tspan rotate="324">R</tspan></text>
+  <text x="234.17" y="120.57"  class="fil1 fnt0"><tspan rotate="327"> </tspan></text>
+  <text x="272.91" y="97.8"  class="fil1 fnt0"><tspan rotate="336">&amp;</tspan></text>
+  <text x="311.29" y="81.13"  class="fil1 fnt0"><tspan rotate="341"> </tspan></text>
+  <text x="354.47" y="67.24"  class="fil1 fnt0"><tspan rotate="350">M</tspan></text>
+  <text x="432.76" y="56.69"  class="fil1 fnt0"><tspan rotate="358">I</tspan></text>
+  <text x="477.83" y="56.69"  class="fil1 fnt0"><tspan rotate="7">S</tspan></text>
+  <text x="541.23" y="66.69"  class="fil1 fnt0"><tspan rotate="16">S</tspan></text>
+  <text x="573.12" y="76.13"  class="fil1 fnt0"><tspan rotate="19"> </tspan></text>
+  <text x="615.19" y="92.24"  class="fil1 fnt0"><tspan rotate="27">E</tspan></text>
+  <text x="667.48" y="121.13"  class="fil1 fnt0"><tspan rotate="35">D</tspan></text>
+  <text x="722.27" y="163.91"  class="fil1 fnt0"><tspan rotate="46">O</tspan></text>
+  <text x="751.93" y="195.57"  class="fil1 fnt0"><tspan rotate="52"> </tspan></text>
+  <text x="760.82" y="207.24"  class="fil1 fnt0"><tspan rotate="52"> </tspan></text>
+  <text x="769.71" y="218.35"  class="fil1 fnt0"><tspan rotate="54"> </tspan></text>
+  <text x="778.05" y="230.02"  class="fil1 fnt0"><tspan rotate="57"> </tspan></text>
+  <text x="786.38" y="242.24"  class="fil1 fnt0"><tspan rotate="60"> </tspan></text>
+  <text x="793.6" y="254.46"  class="fil1 fnt0"><tspan rotate="60"> </tspan></text>
+  <text x="800.83" y="267.24"  class="fil1 fnt0"><tspan rotate="63"> </tspan></text>
+  <text x="819.56" y="307.8"  class="fil1 fnt0"><tspan rotate="71">M</tspan></text>
+  <text x="841.19" y="384.46"  class="fil1 fnt0"><tspan rotate="83">R</tspan></text>
+  <text x="845.19" y="418.91"  class="fil1 fnt0"><tspan rotate="86"> </tspan></text>
+  <text x="847.26" y="463.91"  class="fil1 fnt0"><tspan rotate="94">&amp;</tspan></text>
+  <text x="843.42" y="506.13"  class="fil1 fnt0"><tspan rotate="97"> </tspan></text>
+  <text x="836.04" y="550.57"  class="fil1 fnt0"><tspan rotate="109">M</tspan></text>
+  <text x="808.22" y="624.46"  class="fil1 fnt0"><tspan rotate="117">I</tspan></text>
+  <text x="786.63" y="664.46"  class="fil1 fnt0"><tspan rotate="125">S</tspan></text>
+  <text x="748.36" y="715.57"  class="fil1 fnt0"><tspan rotate="134">S</tspan></text>
+  <text x="724.69" y="739.46"  class="fil1 fnt0"><tspan rotate="136"> </tspan></text>
+  <text x="691.21" y="768.91"  class="fil1 fnt0"><tspan rotate="144">E</tspan></text>
+  <text x="641.28" y="801.13"  class="fil1 fnt0"><tspan rotate="153">D</tspan></text>
+  <text x="577.18" y="829.46"  class="fil1 fnt0"><tspan rotate="164">O</tspan></text>
+  <circle class="fil1" cx="84.79" cy="242.87" r="10.2"/>
+  <circle class="fil1" cx="444.17" cy="866.35" r="10.2"/>
+ </g>
+</svg>
