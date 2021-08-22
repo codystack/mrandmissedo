@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6YWB4ECCWW"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -14,18 +14,15 @@
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+    <meta name="description" content="Mr and Miss Edo Beauty Pageant">
+    <meta name="author" content="ThankGod Okoro">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon" />
-
-    <!-- Libs CSS -->
+    <link rel="shortcut icon" href="https://i.imgur.com/MymduB2.png" type="image/x-icon" />
     <link rel="stylesheet" href="assets/css/libs.bundle.css" />
-
-    <!-- Main CSS -->
     <link rel="stylesheet" href="assets/css/index.bundle.css" />
 
     <!-- Title -->
-    <title>Course</title></head>
+    <title>MME&trade; :: Mr & Miss Edo</title></head>
 
 <style>
     body {
