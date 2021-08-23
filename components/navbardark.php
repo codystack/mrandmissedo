@@ -12,7 +12,7 @@
                 </a>
             </li>
             <li class="nav-item d-none d-lg-block">
-                <a href="register" class="btn btn-outline-light ms-2">
+                <a href="register" class="btn btn-outline-dark ms-2">
                     Register Now
                 </a>
             </li>
