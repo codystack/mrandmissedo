@@ -27,7 +27,7 @@
                     </a>
                 </li>
                 <li class="nav-item dropdown dropdown-hover">
-                    <a class="nav-link" href="about">
+                    <a class="nav-link" href="#">
                         About Us
                     </a>
                 </li>

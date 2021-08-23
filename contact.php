@@ -12,7 +12,7 @@ include "./components/navbardark.php";
           <ul class="list-group list-group-minimal">
             <li class="list-group-item d-flex align-items-center">
               <span class="w-25 text-muted">Email</span>
-              info@mrandmrsedo.org
+              darkwavegroup@gmail.com | info@mrandmrsedo.org
             </li>
             <li class="list-group-item d-flex align-items-center">
               <span class="w-25 text-muted">Phone</span>
